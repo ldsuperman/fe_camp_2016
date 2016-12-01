@@ -1,0 +1,27 @@
+body,html{
+    height: 100%;
+    margin: 0;}
+body{
+    background-image: url("../images/mage1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.button-mage{
+    position: relative;
+    top:300px;
+    left:1000px;
+    background-color: rgba(255,255,255,0);
+    /*text-align: center;*/
+    width:500px;
+    height:500px;
+}
+button{
+    margin:80px;
+    height: 50px;
+    width:250px;
+    border-radius: 6px;
+    font-size: 40px;
+    border-style:none;
+
+}
+
